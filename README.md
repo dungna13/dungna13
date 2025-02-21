@@ -25,8 +25,8 @@
   <a href="https://drive.google.com/drive/folders/1mX0o7qRfybMHW6DO4-6qcS25H1SPmoik?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/TopCV-28a745?style=for-the-badge&logo=topcv&logoColor=white" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://www.facebook.com/dungdeptraidangonthiaieo/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </div>
 
