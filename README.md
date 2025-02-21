@@ -22,8 +22,8 @@
   <a href="mailto:ngoanhdung@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://drive.google.com/drive/folders/1mX0o7qRfybMHW6DO4-6qcS25H1SPmoik?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/TopCV-28a745?style=for-the-badge&logo=topcv&logoColor=white" />
+  <a href="https://drive.google.com/uc?export=download&id=1f6Ai3T4CIVSXKJs54z8bqsIpamupNyKE" target="_blank">
+    <img src="https://img.shields.io/badge/TOPCV-28a745?style=for-the-badge&logo=topcv&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/dungdeptraidangonthiaieo/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
