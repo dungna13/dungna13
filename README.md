@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dungna13.dungna13.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dungna13.dungna13&left_color=red&right_color=green&left_text=HelloVisitors" />
 ## Hi there 👋
 
 <!--
