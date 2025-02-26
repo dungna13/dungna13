@@ -70,6 +70,6 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img width="800" src="https://streak-stats.demolab.com?user=dungna13&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=dungna13&theme=tokyonight-duo" alt="GitHub Streak" />
   </a>
 </div>
