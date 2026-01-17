@@ -28,8 +28,8 @@
   <a href="mailto:ngoanhdung@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://drive.google.com/uc?export=download&id=1f6Ai3T4CIVSXKJs54z8bqsIpamupNyKE" target="_blank">
-    <img src="https://img.shields.io/badge/TOPCV-28a745?style=for-the-badge&logo=topcv&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ngo-anh-dung-722690a8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/dungdeptraidangonthiaieo/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
