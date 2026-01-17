@@ -66,10 +66,3 @@
     <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="100">
     <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="100">
 </div>
-
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=dungna13&theme=tokyonight-duo" alt="GitHub Streak" />
-  </a>
-</div>
