@@ -92,10 +92,6 @@
 
 <br/>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dungna13&show_icons=true&theme=vision-friendly-dark&title_color=00FFCC&icon_color=00FFCC&text_color=ffffff&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungna13&layout=compact&theme=vision-friendly-dark&title_color=00FFCC&icon_color=00FFCC&text_color=ffffff&bg_color=0d1117" />
-</div>
 
 <hr/>
 
