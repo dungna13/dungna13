@@ -97,6 +97,8 @@
 
 <div align="center">
   <h2>🐍 My AI Development Journey 🐍</h2>
+    <br>
+  <img alt="snake" src="https://raw.githubusercontent.com/dungna13/dungna13/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br/>
